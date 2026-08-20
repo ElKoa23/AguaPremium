@@ -6,3 +6,13 @@ padding: 0;
 *{
 text-align: center;  
 }
+.header {
+  display: flex;
+background: linear-gradient(90deg,rgba(22, 161, 217, 1) 0%, rgba(87, 180, 199, 1) 53%, rgba(87, 199, 147, 1) 100%);  
+width: 100%;
+height: 250px;
+}
+
+.imagen-logo {
+  height: 100%
+}
